@@ -1,5 +1,5 @@
 # Chris-Infosys-Nov24
-#FutureCart-AI Driven Demand Prediction Project-Infosys Springboard Internship 5.0
+FutureCart-AI Driven Demand Prediction Project-Infosys Springboard Internship 5.0
 
 
  FutureCart: AI-Driven Demand Prediction for Smarter Retail
